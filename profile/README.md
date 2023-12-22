@@ -3,7 +3,7 @@
 
 # Grant Me
 
-A hotel recommendation application built with 5 different types of algorithm to provide you the best experiences to stay in Bali! This projects covers all 100 Bali's Hotel from different residence so that you can enjoy every bit of "Bali Experience and Culture." Built with low-cost cloud infrastucture so that the maintenence of this applicaiton is relatively easy to scale up, and also built with Android Kotlin for the optimize and native performance so your experience searching for the best hotel becomes more easy!
+A mobile-based scholarship application which is a place to accommodate scholarships available in Indonesia so that it makes it easier for scholarship seekers to get the latest information related to existing scholarships. This application also provides scholarship recommendations based on the user's personal data that they input so that prospective scholarship recipients get an initial idea of which scholarships are suitable for them to register themselves.
 
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media | Universitas |
