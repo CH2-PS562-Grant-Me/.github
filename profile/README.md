@@ -8,17 +8,17 @@ A mobile-based scholarship application which is a place to accommodate scholarsh
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media | Universitas |
 |:----------:|:----:|:------------:|:-----------:|
-|M278BSY0461|Akbar Abdurrahman Jafaruddin|[LinkedIn](linkedin.com/in/akbarabdurrahman)| Universitas Negeri Makassar |
-|M248BSX1575|Annisa Qurrota A'yun|[LinkedIn](linkedin.com/in/annisa-qa)| Universitas Lampung |
-|M244BSY0053|Rainer Trijuadi Pampang|[LinkedIn](linkedin.com/in/rainertp)| Universitas Kristen Petra |
+|M278BSY0461|Akbar Abdurrahman Jafaruddin|[LinkedIn](https://www.linkedin.com/in/akbarabdurrahman)| Universitas Negeri Makassar |
+|M248BSX1575|Annisa Qurrota A'yun|[LinkedIn](https://www.linkedin.com/in/annisa-qa)| Universitas Lampung |
+|M244BSY0053|Rainer Trijuadi Pampang|[LinkedIn](https://www.linkedin.com/in/rainertp)| Universitas Kristen Petra |
 
 ### Cloud Computing Division
 | Bangkit ID | Name | Social Media | Universitas |
 |:----------:|:----:|:------------:|:-----------:|
-|C492BSY4234 |Muhamad Akmal Amran|[LinkedIn](linkedin.com/in/muhamad-akmal-amran)| Universitas Muhammadiyah Yogyakarta |
-|C278BSX3975 |Mukhlishah Afdhaliyah|[LinkedIn](linkedin.com/in/mukhlishah-afdhaliyah)| Universitas Negeri Makassar |
+|C492BSY4234 |Muhamad Akmal Amran|[LinkedIn](https://www.linkedin.com/in/muhamad-akmal-amran)| Universitas Muhammadiyah Yogyakarta |
+|C278BSX3975 |Mukhlishah Afdhaliyah|[LinkedIn](https://www.linkedin.com/in/mukhlishah-afdhaliyah)| Universitas Negeri Makassar |
 
 ### Mobile Development Division
 | Bangkit ID | Name | Social Media | Universitas |
 |:----------:|:----:|:------------:|:-----------:|
-|A278BSY2195 |Nur Faizih Aspar|[LinkedIn](linkedin.com/in/nurfaizihaspar)| Universitas Negeri Makassar |
+|A278BSY2195 |Nur Faizih Aspar|[LinkedIn](https://www.linkedin.com/in/nurfaizihaspar)| Universitas Negeri Makassar |
